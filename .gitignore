@@ -1,3 +1,5 @@
 keys.env
 .cache
 .xlsx
+.idea
+__pycache__
